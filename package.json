@@ -1,0 +1,19 @@
+{
+  "name": "miamiuniversityacm-w",
+  "version": "1.0.0",
+  "description": "[Creative](http://startbootstrap.com/template-overviews/creative/) is a one page creative theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weisssa2/MiamiUniversityACM-W.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/weisssa2/MiamiUniversityACM-W/issues"
+  },
+  "homepage": "https://github.com/weisssa2/MiamiUniversityACM-W#readme"
+}
