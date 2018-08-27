@@ -169,8 +169,7 @@ img::-moz-selection {
 header.masthead {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 56px);
-  background-image: url("../img/benton.jpeg");
-  /* background-image: url("../img/header.jpg"); */
+  background-image: url("../img/header.jpg");
   background-position: center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -310,26 +309,4 @@ header.masthead p {
 
 .btn-primary:active, .btn-primary:focus {
   box-shadow: 0 0 0 0.2rem rgba(240, 95, 64, 0.5) !important;
-}
-
-/* NEW CARDS */
-/* CHAPTER CARDS */
-.card {
-  width:200px;
-  height: 100px;
-  padding:10px;
-}
-
-.card-title#chapter {
-  font-size: 18px;
-  width:300px;
-  background:black;
-  height:10%;
-  text-align: center;
-  padding-top: 0px;
-}
-
-.card-image {
-  height:250px;
-  width:auto;
 }
